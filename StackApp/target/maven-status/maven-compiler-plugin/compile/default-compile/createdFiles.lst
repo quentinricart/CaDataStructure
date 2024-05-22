@@ -1,0 +1,5 @@
+com\mycompany\stackapp\StackException.class
+com\mycompany\stackapp\LinkedListStack.class
+com\mycompany\stackapp\LinkedListStack$Node.class
+com\mycompany\stackapp\StackApp.class
+com\mycompany\stackapp\StackInterface.class
